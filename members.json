@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Priyanshu",
+    "department": "ECE",
+    "position": "Web Developer",
+    "img": "../img/photo1.jpg"
+  },
+  {
+    "name": "Prince",
+    "department": "EE",
+    "position": "Frontend Developer",
+    "img": "../img/photo2.jpg"
+  }
+]
